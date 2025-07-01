@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nlarif
-- 👀 I’m interested in everything related to computer science and project management
+- 👀 I’m interested in everything related to computer science
 - 🌱 I’m currently coding a React Native side project.
 
 <!---
